@@ -1,0 +1,13 @@
+.landing-page {
+    width: 100VW;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
